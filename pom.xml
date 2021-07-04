@@ -105,7 +105,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <urlhttp://34.228.55.15:8081/repository/Maven_Wallmart_Snapshot/></url>
+	      <url>http://34.228.55.15:8081/repository/Maven_Wallmart_Snapshot/></url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
