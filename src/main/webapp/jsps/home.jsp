@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 		Martha Halli, Above ICICI Bank, Beside Meghana Foods,
 		Bangalore,
 		+91-9980923226
-		devopstrainingblr@gmail.com
+		bkk.jew@gmail.com
 		<br>
 		<a href="mailto:bkk.jew@gmail.com">Mail to Kiran Technologies</a>
 	</span>
